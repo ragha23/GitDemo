@@ -9,6 +9,14 @@ public class AppiumTest {
 	public void firstAppiumTest()	
 	{
 		System.out.println("This is First Appium Test");
+		
+	}
+	
+	@Test
+	public void thirdAppiumTest()	
+	{
+		System.out.println("This is Third Appium Test");
+		
 	}
 
 	@Test
