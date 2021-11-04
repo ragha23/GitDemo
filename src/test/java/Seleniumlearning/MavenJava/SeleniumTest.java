@@ -25,4 +25,9 @@ public class SeleniumTest {
 		System.out.println("This is Third Selenium Test");
 	}
 
+	@Test
+	public void fourthSelTest()	
+	{
+		System.out.println("This is Fourth Selenium Test");
+	}
 }
