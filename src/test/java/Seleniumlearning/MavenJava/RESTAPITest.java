@@ -8,6 +8,8 @@ public class RESTAPITest {
 	public void firstRestApiTest()	
 	{
 		System.out.println("This is First RESTAPI Test");
+		System.out.println("Testing GIT and GITHUB");
+		System.out.println("GIT Commands");
 	}
 
 	@Test
