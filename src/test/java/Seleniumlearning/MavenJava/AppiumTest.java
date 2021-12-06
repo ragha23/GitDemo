@@ -24,4 +24,10 @@ public class AppiumTest {
 	{
 		System.out.println("This is Second Appium Test");
 	}
+	
+	@Test
+	public void fourthAppiumTest()	
+	{
+		System.out.println("This is fourth Appium Test");
+	}
 }
