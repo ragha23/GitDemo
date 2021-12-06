@@ -21,5 +21,15 @@ public class RESTAPITest {
 		
 		System.out.println("06 Dec Code");
 	}
+	
+	@Test
+	public void thirdRestAPiTest()	
+	{
+		System.out.println("This is third RESTAPI Test");
+		System.out.println("Testing GIT and GITHUB braching");
+		System.out.println("GIT branch Commands");
+		
+		System.out.println("06 Dec Code");
+	}
 
 }
