@@ -30,4 +30,10 @@ public class SeleniumTest {
 	{
 		System.out.println("This is Fourth Selenium Test");
 	}
+	
+	@Test
+	public void fifthSelTest()	
+	{
+		System.out.println("This is Fifth Selenium Test");
+	}
 }
